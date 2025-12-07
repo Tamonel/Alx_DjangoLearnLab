@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Database
+*.sqlite3
+
+# Environment
+myenv/
+venv/
+
+# OS files
+.DS_Store
+*.swp
+
