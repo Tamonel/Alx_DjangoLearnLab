@@ -7,3 +7,8 @@ env/
 # Python bytecode
 __pycache__/
 *.pyc
+
+# Editor swap files and backups
+*.swp
+*.swo
+*.bak
